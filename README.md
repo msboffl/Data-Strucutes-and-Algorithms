@@ -1,1 +1,1 @@
-# Data Strucutes and Algorithms - C/C++, Java, Python, JavaScript
+# Data Structures and Algorithms - C/C++, Java, Python, JavaScript
