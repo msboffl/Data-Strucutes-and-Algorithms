@@ -1,4 +1,4 @@
-package Soultions1to100;
+package Soultions1to100.Solution1;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -56,11 +56,14 @@ class Approach3 {
 }
 public class Solution1 {
     public static void main(String[] args) {
-        Approach1 approach1 = new Approach1();
 
         int[] nums = {2, 7, 11, 15}; int target = 9;
         int[] nums1 = {3,2,4}; int target1 = 6;
         int[] nums2 = {3,3}; int target2 = 6;
+
+        Approach1 approach1 = new Approach1();
+
+
 
         System.out.println(Arrays.toString(approach1.twoSum(nums, target)));
         System.out.println(Arrays.toString(approach1.twoSum(nums1, target1)));
